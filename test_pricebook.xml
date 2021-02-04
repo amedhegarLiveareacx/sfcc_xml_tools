@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pricebooks xmlns="http://www.demandware.com/xml/impex/pricebook/2006-10-31">
+    <pricebook>
+        <header pricebook-id="USD-sale">
+            <currency>USD</currency>
+            <online-flag>true</online-flag>
+            <parent>USD-list</parent>
+            <feed-based>true</feed-based>
+        </header>
+
+        <price-tables>
+			<price-table product-id="194513935246">
+                <amount quantity="1">29.99</amount>
+            </price-table>
+
+            <price-table product-id="194513935253">
+                <amount quantity="1">30.00</amount>
+            </price-table>
+
+            <price-table product-id="194513935260">
+                <amount quantity="1">59.99</amount>
+            </price-table>
+
+            <price-table product-id="194513935277">
+                <amount quantity="1">59.99</amount>
+            </price-table>
+
+            <price-table product-id="194513935284">
+                <amount quantity="1">59.99</amount>
+            </price-table>
+		</price-tables>
+    </pricebook>
+</pricebooks>
