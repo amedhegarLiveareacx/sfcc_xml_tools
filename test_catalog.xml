@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog xmlns="http://www.demandware.com/xml/impex/catalog/2006-10-31" catalog-id="NACatalog">
+    <header>
+        <image-settings>
+            <external-location>
+                <http-url>http://underarmour.scene7.com/is/image/Underarmour/</http-url>
+                <https-url>https://underarmour.scene7.com/is/image/Underarmour/</https-url>
+            </external-location>
+            <view-types>
+                <view-type>cartFullDesktop</view-type>
+                <view-type>cartFullMobile</view-type>
+                <view-type>cartMiniDesktop</view-type>
+                <view-type>gridTileDesktop</view-type>
+                <view-type>pdpMainDesktop</view-type>
+                <view-type>pdpMainMobile</view-type>
+                <view-type>pdpZoomDesktop</view-type>
+                <view-type>standardProductCarousel</view-type>
+                <view-type>gridSwatch</view-type>
+                <view-type>productRecommendationLarge</view-type>
+                <view-type>productRecommendationSmall</view-type>
+                <view-type>feedsDefault</view-type>
+                <view-type>onmodelImage</view-type>
+                <view-type>swatch</view-type>
+            </view-types>
+            <variation-attribute-id>color</variation-attribute-id>
+            <alt-pattern>${productname}, ${variationvalue}, ${viewtype}</alt-pattern>
+            <title-pattern>${productname}, ${variationvalue}</title-pattern>
+        </image-settings>
+    </header>
+
+    <product product-id="193445206028">
+        <ean/>
+        <upc>193445206028</upc>
+        <unit>1</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>true</online-flag>
+        <online-flag site-id="US">true</online-flag>
+        <online-flag site-id="CA">false</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>100205001</tax-class-id>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="color">411</custom-attribute>
+            <custom-attribute attribute-id="colorgroup" xml:lang="x-default">Navy</custom-attribute>
+            <custom-attribute attribute-id="colorway" xml:lang="x-default">Midnight Navy / White</custom-attribute>
+            <custom-attribute attribute-id="colorwaycontent" xml:lang="x-default">BODY: 90% Polyester,10% Elastane</custom-attribute>
+            <custom-attribute attribute-id="hexcolor">#293042</custom-attribute>
+            <custom-attribute attribute-id="isOutlet" xml:lang="x-default">No</custom-attribute>
+            <custom-attribute attribute-id="logohexcolor">#F1FCFF</custom-attribute>
+            <custom-attribute attribute-id="shipmentstartdate">6/1/2019 12:00:00 PM</custom-attribute>
+            <custom-attribute attribute-id="size">LG</custom-attribute>
+            <custom-attribute attribute-id="sizesort" xml:lang="x-default">7700.0000</custom-attribute>
+            <custom-attribute attribute-id="sku" xml:lang="x-default">5033178-411-LG</custom-attribute>
+            <custom-attribute attribute-id="style" xml:lang="x-default">5033178</custom-attribute>
+            <custom-attribute attribute-id="team" xml:lang="x-default">University of Notre Dame</custom-attribute>
+            <custom-attribute attribute-id="variationSizePrefJSON">{"type":"Apparel","size":"LG"}</custom-attribute>
+        </custom-attributes>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+    </product>
+
+    <product product-id="193445206110">
+        <ean/>
+        <upc>193445206110</upc>
+        <unit>1</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>true</online-flag>
+        <online-flag site-id="US">true</online-flag>
+        <online-flag site-id="CA">false</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>100205001</tax-class-id>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="color">411</custom-attribute>
+            <custom-attribute attribute-id="colorgroup" xml:lang="x-default">Navy</custom-attribute>
+            <custom-attribute attribute-id="colorway" xml:lang="x-default">Midnight Navy / White</custom-attribute>
+            <custom-attribute attribute-id="colorwaycontent" xml:lang="x-default">BODY: 90% Polyester,10% Elastane</custom-attribute>
+            <custom-attribute attribute-id="hexcolor">#293042</custom-attribute>
+            <custom-attribute attribute-id="isOutlet" xml:lang="x-default">No</custom-attribute>
+            <custom-attribute attribute-id="logohexcolor">#F1FCFF</custom-attribute>
+            <custom-attribute attribute-id="shipmentstartdate">6/1/2019 12:00:00 PM</custom-attribute>
+            <custom-attribute attribute-id="size">MD</custom-attribute>
+            <custom-attribute attribute-id="sizesort" xml:lang="x-default">7610.0000</custom-attribute>
+            <custom-attribute attribute-id="sku" xml:lang="x-default">5033178-411-MD</custom-attribute>
+            <custom-attribute attribute-id="style" xml:lang="x-default">5033178</custom-attribute>
+            <custom-attribute attribute-id="team" xml:lang="x-default">University of Notre Dame</custom-attribute>
+            <custom-attribute attribute-id="variationSizePrefJSON">{"type":"Apparel","size":"MD"}</custom-attribute>
+        </custom-attributes>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+    </product>
+</catalog>
